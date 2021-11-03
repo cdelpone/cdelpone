@@ -2,6 +2,18 @@
   Hey hi!
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
+<<<<<<< HEAD
+=======
+<img src="https://giphy.com/embed/q9ETKoMaBMsNy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-cute-q9ETKoMaBMsNy">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/q9ETKoMaBMsNy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dog-cute-q9ETKoMaBMsNy">via GIPHY</a></p>
+
+
+
+<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/n5CHDD8c4sW18Dqz3z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/viralhog-viral-hog-n5CHDD8c4sW18Dqz3z">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/n5CHDD8c4sW18Dqz3z" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/viralhog-viral-hog-n5CHDD8c4sW18Dqz3z">via GIPHY</a></p>
+>>>>>>> e3e59efb1e72d087b61c6259b9b78fa49aa6eba8
 
 <p align="center">
   ‍👩🏻‍💻 Turing School of Software & Design - Back-End Program
