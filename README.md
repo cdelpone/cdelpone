@@ -44,7 +44,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-cdelpone-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinadelpone/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-cdelpone@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cdelpone@gmail.com "Connect via Email")
 [![Instagram Badge](https://img.shields.io/badge/-cdelpone-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cdelpone/ "Follow on Instagram")
-[![Twitter Badge](https://img.shields.io/badge/-cdelpone-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.instagram.com/cdelpone/ "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-cdelpone-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/cdelpone/ "Follow on Twitter")
 <hr></hr>
 
 
