@@ -26,6 +26,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
+![Circle CI-img](https://img.shields.io/badge/-CircleCi-brightgreen.svg?logo=LOGO)
+![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=flat&logo=travis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 <hr></hr>
