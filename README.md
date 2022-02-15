@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  ‍👩🏻‍💻 Turing School of Software & Design - Back-End Program
+  ‍👩🏻‍💻 Backend Software Engineer - Turing School of Software & Design
 </p>
 
 <div align="center" >
