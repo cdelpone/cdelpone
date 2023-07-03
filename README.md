@@ -5,7 +5,8 @@
 </h3>
 
 <p align="center">
-  ‍👩🏻‍💻 Backend Software Engineer - Turing School of Software & Design
+  ‍👩🏻‍💻 Backend Software Engineer - Beyond Finance -> Above Lending
+  2108BE Cohort - Turing School of Software & Design
 </p>
 
 <div align="center" >
